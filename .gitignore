@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+*.xls
+*.xlsx
+
+!data/input/dummy_1c_raw.xlsx
+!data/output/dummy_cleaned_data.xlsx
+
+yekun_netice/
